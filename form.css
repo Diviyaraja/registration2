@@ -1,0 +1,43 @@
+form{
+    background-color: rgb(213, 244, 188);
+    margin: 0px 190px 0px 190px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+form:hover{
+    background-color: pink;
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:pink (237, 245, 168);
+}
+select{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:black;(168, 210, 245);
+}
+textarea{
+    border-radius: 5px;
+    background-color:rgb(0, 0, 0);(237, 245, 168);
+}
+input:hover{
+    background-color: red;(213, 244, 188);
+}
+select:hover{
+    background-color: skyblue;(213, 244, 188);
+}
+textarea:hover{
+    background-color: purple;(213, 244, 188);
+}
+button{
+    background-color: red;
+}
+button:hover{
+    background-color: orange;
+}
+{
+background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg&_gl=1*zofppb*_ga*MTYxNzAyMDAxMi4xNzIwNTA0OTkz*_ga_8JE65Q40S6*MTcyMDUwNDk5Mi4xLjAuMTcyMDUwNDk5Mi4wLjAuMA..");
+ background-color: #cccccc;
+} 
